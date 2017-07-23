@@ -1,0 +1,5 @@
+skin: steel
+
+google_fonts:
+  - name: "Old Standard TT"
+    weights: "400,400i,700,700b"
