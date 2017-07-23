@@ -17,7 +17,7 @@ title: Old Foreigner
 email:
 description: Are you living in China, or thinking about moving? This is the blog you want to read that will answer all your questions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "209cameronism.github.io/old-foreigner" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://209cameronism.github.io/old-foreigner/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Cshowkat
 github_username:  209cameronism
 
